@@ -1,1 +1,1 @@
-# DETECTION-SYSTEM-OF-MANUFACTURING-DEFECTS
+It is a system that detects the weights of balls in boxes, if there are 2 balls that have different weights from others. It means that box has producing flaw and all balls in the flawed boxes are returned. That's what this system do.
